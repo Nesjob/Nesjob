@@ -1,14 +1,16 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesjob&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Nesjob&theme=tokyonight&show_icons=true" height="170" />
 </div>
- ##Besucher seit 01.03.2021: 
+<div align="center">
+<h2>Besucher seit 01.03.2021: </h2>
+</div>
  <img src="https://ghvisitorcount.zekro.de/Nesjob.svg"/>
 <br />
 
 <img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
 
 <div align="center">
-<h2>MDEUTSCHE ÜBERSETZUNGEN VON JACKBOX GAMES</h2>
+<h2>DEUTSCHE ÜBERSETZUNGEN VON JACKBOX GAMES</h2>
 </div>
 
 <div align="center">
