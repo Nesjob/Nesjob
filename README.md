@@ -3,7 +3,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02-cropped.gif"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekroTJA&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zekroTJA&theme=tokyonight&show_icons=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesjob&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zekroTJA&theme=tokyonight&show_icons=true" height="170" />
 </div>
 
 <br />
