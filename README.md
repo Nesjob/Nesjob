@@ -35,6 +35,21 @@
   <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-7-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox7.jpg" />
 </a>
+  <a href="https://github.com/Nesjob/Quiplash-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Quiplash.jpg" />
+</a>
+  <a href="https://github.com/Nesjob/Quip-Pack1-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/QuiplashQuipPack1.jpg" />
+</a>
+  <a href="https://github.com/Nesjob/Fibbage-XL-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/FibbageXL.jpg" />
+</a>
+  <a href="https://github.com/Nesjob/Drawful-2-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Drawful2.jpg" />
+</a>
+  <a href="https://github.com/Nesjob/Use-Your-Words-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/UseYourWords.jpg" />
+</a>
  </div> 
  <br />
 <img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
