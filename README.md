@@ -50,6 +50,12 @@
   <a href="https://github.com/Nesjob/Use-Your-Words-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/UseYourWords.jpg" />
 </a>
+
+<div align="center">
+<h2>DAS KÖNNTE DIR BEIM ÜBERSETZEN ODER HINZUFÜGEN HELFEN</h2>
+</div>
+https://github.com/Nesjob/jpp-lang-switcher
+
  </div> 
  <br />
 <img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
