@@ -7,7 +7,6 @@
 </div>
 
 <br />
-<img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02d-cropped.gif"/>
 
 <div align="center">
 <h2>My current main projects</h2>
