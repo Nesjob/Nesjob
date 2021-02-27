@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02-cropped.gif"/>
+<img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekroTJA&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zekroTJA&theme=tokyonight&show_icons=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesjob&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zekroTJA&theme=tokyonight&show_icons=true" height="170" />
 </div>
 
 <br />
@@ -13,21 +13,21 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/Nesjob/Shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-1-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox1.jpg" />
 </a>
-  <a href="https://github.com/zekroTJA/supercharge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-2-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox2.jpg" />
 </a>
-  <a href="https://github.com/zekroTJA/voidseeker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-3-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox3.jpg" />
 </a>
   <a href="https://github.com/myrunes/backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
 </a>
  </div> 
  <br />
-<img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
+<img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
   
  Visitors since 2020-07-08:  
  <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg"/>
