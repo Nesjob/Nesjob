@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02-cropped.gif"/>
+<img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesjob&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zekroTJA&theme=tokyonight&show_icons=true" height="170" />
@@ -27,7 +27,7 @@
 </a>
  </div> 
  <br />
-<img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
+<img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
   
  Visitors since 2020-07-08:  
  <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg"/>
