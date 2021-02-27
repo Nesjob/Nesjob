@@ -17,10 +17,10 @@
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox1.jpg" />
 </a>
   <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-2-German">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox2.jpg" />
 </a>
   <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-3-German">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox3.jpg" />
 </a>
   <a href="https://github.com/myrunes/backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
