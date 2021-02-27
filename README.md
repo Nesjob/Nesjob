@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-<h2>My current main projects</h2>
+<h2>MDEUTSCHE ÜBERSETZUNGEN VON JACKBOC GAMES</h2>
 </div>
 
 <div align="center">
@@ -33,9 +33,6 @@
 </a>
   <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-7-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox7.jpg" />
-</a>
-  <a href="https://github.com/myrunes/backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
 </a>
  </div> 
  <br />
