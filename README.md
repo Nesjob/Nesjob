@@ -58,6 +58,10 @@
   <a href="https://github.com/Nesjob/jpp-lang-switcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nesjob&repo=jpp-lang-switcher&show_icons=true&theme=tokyonight" />
 </a>
+</a>
+  <a href="https://github.com/Nesjob/jpexs-decompiler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nesjob&repo=jpexs-decompiler&show_icons=true&theme=tokyonight" />
+</a>
 
  </div> 
  <br />
