@@ -39,7 +39,7 @@
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Quiplash.jpg" />
 </a>
   <a href="https://github.com/Nesjob/Quip-Pack1-German">
-  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/QuiplashQuipPack1.jpg" />
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/QuipPack1.jpg" />
 </a>
   <a href="https://github.com/Nesjob/Fibbage-XL-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/FibbageXL.jpg" />
