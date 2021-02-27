@@ -13,13 +13,13 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/Nesjob/Shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-1-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox1.jpg" />
 </a>
-  <a href="https://github.com/zekroTJA/supercharge">
+  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-2-German">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
 </a>
-  <a href="https://github.com/zekroTJA/voidseeker">
+  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-3-German">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=tokyonight" />
 </a>
   <a href="https://github.com/myrunes/backend">
