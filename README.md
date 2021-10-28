@@ -35,6 +35,9 @@
   <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-7-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox7.jpg" />
 </a>
+  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-8-German">
+  <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox8.jpg" />
+</a>
   <a href="https://github.com/Nesjob/Quiplash-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Quiplash.jpg" />
 </a>
