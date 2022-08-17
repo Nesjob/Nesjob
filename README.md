@@ -10,7 +10,7 @@
 <img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
 
 <div align="center">
-<h2>DEUTSCHE ÜBERSETZUNGEN VON JACKBOX GAMES</h2>
+<h2>DEUTSCHE ÜBERSETZUNGEN VON JACKBOX GAMES (ALT)</h2>
 </div>
 
 <div align="center">
