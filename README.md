@@ -1,53 +1,42 @@
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesjob&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Nesjob&theme=tokyonight&show_icons=true" height="170" />
-</div>
-<div align="center">
-<h2>Besucher seit 01.03.2021: </h2>
-</div>
- <img src="https://ghvisitorcount.zekro.de/Nesjob.svg"/>
-<br />
-
-<img width="100%" src="https://github.com/Nesjob/Nesjob/blob/main/Banner.png"/>
-
-<div align="center">
-<h2>DEUTSCHE ÜBERSETZUNGEN VON JACKBOX GAMES (ALT)</h2>
+<h2>DEUTSCHE ÜBERSETZUNGEN VON JACKBOX GAMES</h2>
 </div>
 
 <div align="center">
-<a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-1-German">
+<a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox1.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-2-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox2.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-3-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox3.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-4-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox4.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-5-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox5.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-6-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox6.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-7-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox7.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/The-Jackbox-Party-Pack-8-German">
+  <a href="https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Jackbox8.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/Quiplash-German">
+  <a href="https://github.com/Team-Gamechanger/Quiplash-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Quiplash.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/Quip-Pack1-German">
+  <a href="https://github.com/Team-Gamechanger/Quip-Pack1-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/QuipPack1.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/Fibbage-XL-German">
+  <a href="https://github.com/Team-Gamechanger/Fibbage-XL-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/FibbageXL.jpg" />
 </a>
-  <a href="https://github.com/Nesjob/Drawful-2-German">
+  <a href="https://github.com/Team-Gamechanger/Drawful-2-German">
   <img align="center" src="https://github.com/Nesjob/Nesjob/blob/main/Drawful2.jpg" />
 </a>
   <a href="https://github.com/Nesjob/Use-Your-Words-German">
